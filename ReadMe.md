@@ -1,6 +1,6 @@
 # Markdown POC
 
-## Convert this document to PDF / HMTL
+## Convert this document to PDF / HTML
 
 ### Activity List
 1. Create Markdown file
